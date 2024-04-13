@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = raissa.blopes@gmail.com
+	name = Raissa Bahia
